@@ -1,0 +1,202 @@
+SalesID,Product,Region,Sales,Year
+101,Smart phones,Kolkata,218,2021
+102,Air Conditioners,Ahmedabad,871,2023
+103,Television,Delhi,329,2023
+104,Television,Ahmedabad,636,2021
+105,Air Conditioners,Bengaluru,525,2023
+106,Air Conditioners,Mumbai,889,2021
+107,Television,Hyderabad,305,2021
+108,Laptop,Ahmedabad,532,2023
+109,Smart phones,Bengaluru,951,2022
+110,Smart phones,Kolkata,999,2023
+111,Air Conditioners,Kolkata,111,2022
+112,Air Conditioners,Kolkata,211,2021
+113,Smart phones,Hyderabad,934,2022
+114,Air Conditioners,Kolkata,629,2023
+115,Smart phones,Hyderabad,218,2021
+116,Smart phones,Hyderabad,982,2023
+117,Smart phones,Delhi,910,2021
+118,Laptop,Hyderabad,941,2023
+119,Television,Hyderabad,691,2021
+120,Television,Hyderabad,737,2023
+121,Television,Bengaluru,823,2022
+122,Air Conditioners,Mumbai,728,2023
+123,Television,Delhi,798,2021
+124,Smart phones,Mumbai,100,2023
+125,Laptop,Delhi,162,2021
+126,Television,Hyderabad,582,2021
+127,Air Conditioners,Kolkata,361,2023
+128,Television,Mumbai,469,2023
+129,Smart phones,Bengaluru,235,2023
+130,Laptop,Delhi,391,2021
+131,Television,Bengaluru,709,2022
+132,Air Conditioners,Delhi,536,2023
+133,Laptop,Delhi,697,2021
+134,Television,Kolkata,924,2022
+135,Smart phones,Kolkata,727,2021
+136,Television,Bengaluru,907,2021
+137,Television,Delhi,185,2021
+138,Television,Bengaluru,538,2022
+139,Air Conditioners,Hyderabad,949,2023
+140,Television,Delhi,514,2022
+141,Television,Bengaluru,970,2022
+142,Laptop,Ahmedabad,705,2021
+143,Television,Kolkata,337,2021
+144,Air Conditioners,Delhi,850,2023
+145,Smart phones,Kolkata,841,2022
+146,Television,Kolkata,715,2021
+147,Television,Kolkata,713,2022
+148,Smart phones,Delhi,435,2021
+149,Air Conditioners,Kolkata,375,2021
+150,Smart phones,Delhi,987,2023
+151,Air Conditioners,Mumbai,890,2022
+152,Smart phones,Hyderabad,384,2021
+153,Television,Delhi,198,2021
+154,Television,Kolkata,297,2022
+155,Laptop,Delhi,775,2023
+156,Television,Delhi,599,2022
+157,Laptop,Hyderabad,227,2022
+158,Air Conditioners,Mumbai,346,2022
+159,Laptop,Delhi,721,2021
+160,Laptop,Mumbai,642,2023
+161,Air Conditioners,Hyderabad,250,2021
+162,Air Conditioners,Hyderabad,807,2023
+163,Television,Delhi,171,2023
+164,Smart phones,Hyderabad,186,2022
+165,Smart phones,Kolkata,410,2023
+166,Air Conditioners,Hyderabad,198,2023
+167,Television,Delhi,933,2021
+168,Laptop,Mumbai,948,2021
+169,Smart phones,Bengaluru,852,2023
+170,Smart phones,Mumbai,462,2021
+171,Air Conditioners,Hyderabad,449,2023
+172,Television,Hyderabad,146,2022
+173,Smart phones,Delhi,324,2021
+174,Laptop,Hyderabad,436,2021
+175,Air Conditioners,Bengaluru,182,2022
+176,Smart phones,Mumbai,502,2021
+177,Laptop,Delhi,578,2022
+178,Laptop,Mumbai,666,2022
+179,Smart phones,Hyderabad,571,2022
+180,Smart phones,Hyderabad,775,2023
+181,Laptop,Kolkata,855,2023
+182,Laptop,Delhi,239,2021
+183,Smart phones,Kolkata,362,2021
+184,Air Conditioners,Kolkata,207,2022
+185,Air Conditioners,Delhi,496,2023
+186,Smart phones,Hyderabad,135,2022
+187,Television,Kolkata,875,2022
+188,Laptop,Bengaluru,993,2022
+189,Television,Kolkata,416,2021
+190,Television,Hyderabad,554,2022
+191,Television,Delhi,584,2022
+192,Television,Ahmedabad,783,2021
+193,Television,Bengaluru,558,2022
+194,Smart phones,Kolkata,129,2023
+195,Laptop,Mumbai,977,2021
+196,Air Conditioners,Delhi,286,2021
+197,Television,Hyderabad,756,2023
+198,Smart phones,Hyderabad,237,2022
+199,Air Conditioners,Hyderabad,405,2023
+200,Television,Hyderabad,703,2021
+201,Laptop,Hyderabad,792,2021
+202,Laptop,Hyderabad,122,2023
+203,Air Conditioners,Hyderabad,832,2023
+204,Laptop,Delhi,358,2023
+205,Air Conditioners,Delhi,144,2021
+206,Laptop,Ahmedabad,782,2021
+207,Television,Delhi,313,2023
+208,Television,Hyderabad,283,2022
+209,Television,Bengaluru,395,2021
+210,Television,Bengaluru,629,2022
+211,Air Conditioners,Hyderabad,844,2021
+212,Air Conditioners,Bengaluru,686,2023
+213,Smart phones,Mumbai,859,2023
+214,Smart phones,Ahmedabad,939,2023
+215,Laptop,Kolkata,127,2023
+216,Air Conditioners,Mumbai,910,2022
+217,Smart phones,Mumbai,228,2023
+218,Air Conditioners,Kolkata,200,2022
+219,Air Conditioners,Hyderabad,887,2023
+220,Smart phones,Bengaluru,602,2022
+221,Smart phones,Ahmedabad,944,2023
+222,Air Conditioners,Kolkata,545,2022
+223,Air Conditioners,Kolkata,548,2021
+224,Television,Delhi,698,2023
+225,Television,Mumbai,626,2023
+226,Laptop,Bengaluru,911,2023
+227,Air Conditioners,Ahmedabad,720,2023
+228,Smart phones,Ahmedabad,133,2022
+229,Television,Kolkata,130,2022
+230,Air Conditioners,Delhi,567,2021
+231,Laptop,Delhi,503,2023
+232,Smart phones,Bengaluru,746,2022
+233,Smart phones,Hyderabad,973,2022
+234,Television,Ahmedabad,359,2022
+235,Television,Mumbai,176,2021
+236,Air Conditioners,Kolkata,155,2021
+237,Television,Delhi,613,2021
+238,Television,Ahmedabad,343,2021
+239,Smart phones,Ahmedabad,733,2021
+240,Air Conditioners,Mumbai,577,2021
+241,Television,Ahmedabad,418,2022
+242,Smart phones,Kolkata,562,2022
+243,Smart phones,Bengaluru,352,2021
+244,Laptop,Hyderabad,199,2023
+245,Smart phones,Hyderabad,394,2021
+246,Smart phones,Hyderabad,446,2022
+247,Smart phones,Hyderabad,959,2021
+248,Laptop,Bengaluru,246,2022
+249,Television,Bengaluru,322,2021
+250,Laptop,Ahmedabad,434,2022
+251,Smart phones,Bengaluru,306,2021
+252,Smart phones,Ahmedabad,871,2021
+253,Air Conditioners,Mumbai,994,2023
+254,Laptop,Hyderabad,238,2023
+255,Television,Hyderabad,267,2023
+256,Smart phones,Hyderabad,342,2022
+257,Laptop,Bengaluru,185,2023
+258,Smart phones,Hyderabad,194,2022
+259,Air Conditioners,Bengaluru,360,2023
+260,Air Conditioners,Bengaluru,601,2021
+261,Television,Delhi,679,2022
+262,Smart phones,Mumbai,393,2021
+263,Laptop,Hyderabad,728,2022
+264,Air Conditioners,Hyderabad,970,2023
+265,Smart phones,Kolkata,369,2021
+266,Air Conditioners,Mumbai,935,2023
+267,Laptop,Hyderabad,538,2023
+268,Laptop,Delhi,515,2022
+269,Television,Delhi,635,2021
+270,Television,Kolkata,337,2022
+271,Smart phones,Hyderabad,553,2023
+272,Laptop,Delhi,954,2022
+273,Smart phones,Ahmedabad,580,2021
+274,Smart phones,Hyderabad,703,2023
+275,Smart phones,Delhi,787,2021
+276,Smart phones,Bengaluru,501,2023
+277,Smart phones,Hyderabad,720,2023
+278,Air Conditioners,Hyderabad,703,2023
+279,Television,Mumbai,538,2022
+280,Air Conditioners,Kolkata,425,2023
+281,Television,Mumbai,636,2021
+282,Television,Bengaluru,803,2021
+283,Television,Hyderabad,831,2021
+284,Air Conditioners,Hyderabad,750,2023
+285,Air Conditioners,Kolkata,477,2021
+286,Television,Ahmedabad,913,2021
+287,Smart phones,Bengaluru,314,2021
+288,Air Conditioners,Bengaluru,985,2023
+289,Laptop,Bengaluru,690,2022
+290,Smart phones,Bengaluru,722,2023
+291,Smart phones,Delhi,189,2023
+292,Air Conditioners,Kolkata,355,2022
+293,Smart phones,Bengaluru,222,2021
+294,Smart phones,Hyderabad,518,2021
+295,Air Conditioners,Delhi,612,2021
+296,Air Conditioners,Bengaluru,896,2023
+297,Television,Kolkata,104,2023
+298,Smart phones,Kolkata,846,2022
+299,Air Conditioners,Delhi,275,2022
+300,Air Conditioners,Hyderabad,698,2021
+301,Air Conditioners,Kolkata,829,2022
